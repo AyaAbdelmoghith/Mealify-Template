@@ -1142,7 +1142,7 @@ footer .social-links span {
 /* Extra small devices (portrait phones, less than 576px) */
 @media screen and (max-width: 575.98px) {
     .container {
-        padding-inline: 15px;
+        padding-inline: 30px;
     }
 
     #home h2 {
