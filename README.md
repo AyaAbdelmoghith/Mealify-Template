@@ -12,7 +12,7 @@ https://github.com/AyaAbdelmoghith/Mealify-Template/assets/105630381/a8d15d74-a5
 
 
 
-Thank you for your time and feel free to share your feedback and opinions about the design.
+Thank you for your time and feel free to share your feedback and opinions about the template.
 
 My LinkedIn account: https://www.linkedin.com/in/aya-abdelmoghith-b234951a1
 My Email address: ayaabdelmoghith@gmail.com
